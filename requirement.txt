@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+beautifulsoup4
+textblob
+nltk
+scikit-learn
+python-docx
+PyPDF2
+streamlit-authenticator
+yfinance
